@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://journey6061.github.io/burger_react",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
